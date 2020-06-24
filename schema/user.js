@@ -46,3 +46,5 @@ exports.update_avatar_schema = {
         avatar,
     }
 }
+
+
